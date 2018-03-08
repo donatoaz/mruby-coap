@@ -3,3 +3,7 @@
 
 # Dependency Staging
 tmp
+
+# Ignore vim swap files
+*.swp
+*.swo
